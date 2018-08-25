@@ -98,7 +98,7 @@ which can also be expressed as:
 
 ### B. The Income Statement
 * **Revenue (Sales):** How much money the company has brought in during a quarter or a year.
-* **Cost of Sales:** The expenses most directly involved in creating revenue, such as labor costs, raw materials (for manufacturers), or the wholesale price of goods (for retailers).
+* **Cost of Revenue (Cost of Sales):** The expenses most directly involved in creating revenue, such as labor costs, raw materials (for manufacturers), or the wholesale price of goods (for retailers).
 * **Gross Profit:** `Revenue - Cost of Sales`
 * **Gross Margin:** `Gross Profit % (Revenue)`
 * **Operating Expenses or Selling, General, and Administrative Expenses (SG&A):** :white_check_mark:A lower percentage of operating expenses relative to sales generally means a tighter, more cost-effective firm. (Compare with competitors)
@@ -112,3 +112,23 @@ which can also be expressed as:
 * **Earnings per Share (Basic and Diluted):** `Net income / number of shares` Without looking at cash flow and many other factors, it’s mostly meaningless
 
 ### C. The Statement of Cash Flows
+This statement is the true touchstone for corporate value creation because it shows how much cash a company is generating from year to year—and cash is what counts. Look at the statement of cash flows first when evaluating a company to see how much cash it’s throwing off, then look at the balance sheet to test the firmness of its financial foundation, and only then look at the income statement to check out margins and such.
+* **Cash flows from operating activities:** 
+Tells you how much cash the company generated from its business.
+   + **Net Income:** Taken from income statement
+   + **Depreciation and Amortization:** Company didn’t have to pay anyone just because machines have started to wear out—so we need to add it back to net income.
+   + **Tax Benefit from Employee Stock Plans:** When an employee exercises stock options, the employer gets to deduct the gain received by the employee against its corporate income. (Employee compensation is generally tax deductible.) Because the result is a lower tax bill, we need to add back the tax benefit to the already-taxed net income. Be wary of this line item—if it’s large relative to total operating cash flow and the company’s stock has been zooming upwards, you shouldn’t count on this cash being around in the future.
+   + **Changes in Working Capital:** If a company is owed more money by customers this year than it was last year, accounts receivable increase and cash flow decreases; if it owes more money to suppliers, accounts payable increase and so does cash flow. Finally, if a firm pumps more money into inventory that doesn’t sell, cash flow decreases.
+   + **One-Time Charges:** Need to be added back when figuring cash flow.
+   + **Net Cash Provided by Operating Activities:** Holy grail for figuring out whether a company is generating cash.
+* **Cash flows from investing activities:** 
+Activities that involve acquiring or disposing of PP&E, corporate acquisitions, and any sales or purchases of investments.
+   + **Capital Expenditures:** Money spent on items that last a long time, such as PP&E(Property, Plant, Eqipment) —basically, anything needed to keep the business running and growing at its current rate. *Operating cash flow minus capital expenditures equals **free cash flow**, or the amount of cash the company generates after investing in its business.*
+   + **Investment Proceeds:** Money the company has made (or lost) on investing in bonds or stocks in an effort to get a better return than they could in a basic savings account.
+* **Cash flow from financing activities**:
+Include any transactions with the company’s owners or creditors
+   + **Dividends Paid** to shareholders.
+   + **Issuance/Purchase of Common Stock:** Rapidly growing companies often issue large amounts of new stock, which can dilute the value of existing shares but which also give the company cash for expansion. Slower growing companies that generate a lot of free cash flow tend to buy back significant amounts of their own stock, though companies that issue many stock options to their employees also buy back stock to minimize dilution. Firms that grant their employees a ton of options and then spend corporate cash on repurchases are essentially selling shares to their employees at low prices and buying it back on the open market at much higher prices, which is not the best use of capital.
+   + **Issuance/Repayments of Debt:** Tells you whether the company has borrowed money or repaid money it previously borrowed.
+
+If you can’t understand how a dollar flows from a company’s customers back through to shareholders, something’s amiss. Either the company’s business model is too confusing or you need to do more digging before committing any of your money.
