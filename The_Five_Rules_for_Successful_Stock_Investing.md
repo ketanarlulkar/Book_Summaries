@@ -97,5 +97,18 @@ which can also be expressed as:
    Retained earnings, which basically records the amount of capital a company has generated over its lifetime—minus dividends and stock buybacks, which represent funds that have already been returned to shareholders. Retained earnings is a cumulative account; therefore, each year that the company makes a profit and doesn’t pay it all out as dividends, retained earnings increase. *Think of this account as a company’s long-term track record at generating profits.*
 
 ### B. The Income Statement
+* **Revenue (Sales):** How much money the company has brought in during a quarter or a year.
+* **Cost of Sales:** The expenses most directly involved in creating revenue, such as labor costs, raw materials (for manufacturers), or the wholesale price of goods (for retailers).
+* **Gross Profit:** `Revenue - Cost of Sales`
+* **Gross Margin:** `Gross Profit % (Revenue)`
+* **Operating Expenses or Selling, General, and Administrative Expenses (SG&A):** :white_check_mark:A lower percentage of operating expenses relative to sales generally means a tighter, more cost-effective firm. (Compare with competitors)
+* **Depreciation and Amortization:** When a company buys an asset intended to last a long time, such as a new building or a piece of machinery, it charges off a portion of the cost of that asset on its income statement over a series of years.
+* **Nonrecurring Charges/Gains:** e.g. the cost of closing a factory or the gain from selling a division. Ideally, you’d want to see this area of the income statement blank most of the time.
+* **Operating Income:** This number is equal to revenues minus cost of sales and all operating expenses. Theoretically, it represents the profit the company made from its actual operations, as opposed to interest income, one-time gains, and so forth. In practice, companies often include nonrecurring expenses (such as write-offs) in figuring operating income, and you have to add back one-time charges (or subtract one-time gains) yourself. Operating income is as close to a solid bottom-line number as you’re going to get for most firms. You can use it to calculate an operating margin, which is fairly comparable across firms and across industries.
+* **Interest Income/Expense:** Represents interest the company has paid on bonds it has issued or received on bonds or cash that it owns. This tells you the extent to which a firm’s profits can cover needed interest payments.
+* **Taxes:** If the tax rate for a company you’re analyzing is much lower than this, find out why, and find out whether that tax advantage is likely to be permanent or temporary.
+* **Net Income:** The company’s profit after all expenses have been paid. Don’t forget that it can be wildly distorted by one-time charges and/or investment income.
+* **Number of Shares (Basic and Diluted):** Basic shares include only actual shares of stock, and you should pretty much ignore it. Given the amount of egregious granting of stock options that has occurred over the past several years, it’s the **diluted number** that you’ll want to look at, because you want to know the degree to which your stake in the firm could potentially be shrunk (or diluted) if all those option-holders convert their options into shares.
+* **Earnings per Share (Basic and Diluted):** `Net income / number of shares` Without looking at cash flow and many other factors, it’s mostly meaningless
 
 ### C. The Statement of Cash Flows
