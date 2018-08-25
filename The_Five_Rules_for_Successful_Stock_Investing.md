@@ -50,3 +50,52 @@ Estimating how long a moat will last is tough stuff, but you need to at least gi
 
 ### [Accrual accounting](#accrual-accounting)
 e.g. Colgate sells a few cases of toothpaste to Joe’s Corner Store for $1,000 on February 15 but gives Joe 60 days to pay because he’s a regular customer and has a good track record of paying his bills on time. March 31 rolls around, Joe hasn’t paid yet, and Colgate closes its books for the quarter. Colgate shows $1,000 in sales on its income statement because it shipped the toothpaste to Joe—according to the income statement, the sale is complete, regardless of whether Colgate has received payment. But because Joe hasn’t ponied up the grand yet, Colgate will post an entry on its balance sheet to show that Joe owes Colgate $1,000. The entry goes into the accounts receivable line. As you can see, a company can show rip-roaring sales growth without receiving a cent of cash, which is why we need a statement of cash flows.
+
+
+## Financial Statements
+### A. The Balance Sheet
+sometimes called a “statement of financial position”—tells you how much a company owns (its assets), how much it owes (its liabilities), and the difference between the two (its equity). Equity represents the value of the money that shareholders have invested in the firm, and if that sounds odd, think of it just like your mortgage—your equity in your home is the home’s value minus the mortgage. Stockholders’ equity in a firm is the value of the firm’s assets minus its liabilities.
+
+The basic equation underlying a balance sheet is:
+   `Assets − Liabilities = Equity`
+
+which can also be expressed as:
+   `Assets = Liabilities + Equity`
+
+#### **I. Asset Accounts**
+  
+ + **Current Assets**
+
+   Those likely to be used up or converted into cash within one business cycle, usually defined as one year.
+   * **Cash and Equivalents and Short-Term Investments:** Usually contains money market funds or anything that can be liquidated quickly and with minimal price risk, whereas “short-term investments” is similar to cash—usually, bonds that have less than a year to maturity and earn a higher rate of return than cash but would take a bit of effort to sell.
+   * **Accounts Receivable:** Accounts receivable are bills that the company hasn’t yet collected but for which it expects to receive payment soon. Ff accounts receivable are rising much faster than sales, the firm is booking a large amount of revenue for which it has not yet received payment. This can be a sign of trouble because it may mean that the firm is offering looser credit terms to increase sales. *Note: comparing the growth rate of accounts receivable with the growth rate of sales is a good way to judge whether a company is doing a good job collecting the money that it’s owed by customers. Both should increase with similar rates*
+   * **Inventories:** Important to watch in manufacturing and retail firms. Their value on the balance sheet should be taken with a grain of salt. e.g. Although a construction firm could probably get a decent price if it needed to sell off some extra steel girders it had lying around in inventory, a retailer that needed to sell last fall’s teen fashions would likely have to take pennies on the dollar.
+   Inventories soak up capital—cash that’s been converted into inventory sitting in a warehouse can’t be used for anything else.
+   :white_check_mark:Inventory turnover by dividing a company’s cost of goods sold by its inventory level.
+
+ + **Investments**
+
+   Invested in either longer term bonds or in the stock of other companies. 
+
++ **Intangible Assets**
+
+   *Goodwill:* The difference between the price the acquiring company pays and tangible value—or equity—of the target company. e.g. The majority of Coca-Cola’s value is not in the firm’s buildings and equipment; it’s in the powerful brand that Coke has built up over the past several decades. If some firm were to buy Coke, it would have to pay far more than the book value of Coke’s equity, and that extra amount is called goodwill. View this account with extreme skepticism because most companies tend to overpay for their targets, means the value of goodwill that shows up on the balance sheet is very often far more than the asset is actually worth. Think twice if goodwill is asset or not.
+   
+#### **II. Liability Accounts**
+   
++ **Current Liabilities**
+
+   Current liabilities are the flip side of current assets: money the company expects to pay out within a year.
+   * **Accounts Payable:** Bills the company owes to somebody else and are due to be paid within a year
+   * **Short-Term Borrowings:**  Money the company has borrowed for a term of less than a year, usually to meet short-term needs. Especially important for companies in financial distress because the entire amount often has to be paid back quickly.
+   
++ **Non-Current Liabilities**
+   
+   Money the company owes one year or more in the future. Though you’ll sometimes see a variety of line items under this heading, the most important one by far is long-term debt. This represents money the company has borrowed—usually by issuing bonds, though sometimes from a bank—that doesn’t need to be paid back for a few years
+   
+#### **III. Stockholders’ Equity**
+   Retained earnings, which basically records the amount of capital a company has generated over its lifetime—minus dividends and stock buybacks, which represent funds that have already been returned to shareholders. Retained earnings is a cumulative account; therefore, each year that the company makes a profit and doesn’t pay it all out as dividends, retained earnings increase. *Think of this account as a company’s long-term track record at generating profits.*
+
+### B. The Income Statement
+
+### C. The Statement of Cash Flows
