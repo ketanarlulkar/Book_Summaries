@@ -1,4 +1,29 @@
 
+### Table of Contents  
+1. [ESSENCE: WHAT IS THE CORE MIND-SET OF AN ESSENTIALIST?](#1-essence-what-is-the-core-mind-set-of-an-essentialist)
+   1. [Choose: The Invincible Power of Choice](#choose-the-invincible-power-of-choice)
+   2. [Discern: The Unimportance of Practically Everything](#discern-the-unimportance-of-practically-everything)
+   3. [Trade-off: Which Problem Do I Want?](#trade-off-which-problem-do-i-want)
+2. [EXPLORE: DISCERNING THE TRIVIAL MANY FROM THE VITAL FEW](#2-explore-discerning-the-trivial-many-from-the-vital-few)
+   1. [Escape: The Perks of Being Unavailable](#escape-the-perks-of-being-unavailable)
+   2. [Look: See What Really Matters](#look-see-what-really-matters)
+   3. [Sleep: Protect the Asset](#sleep-protect-the-asset)
+   4. [Select: The Power of Extreme Criteria](#select-the-power-of-extreme-criteria)
+3. [ELIMINATE: CUTTING OUT THE TRIVIAL MANY](#3-eliminate-cutting-out-the-trivial-many)
+   1. [Clarity: One Decision That Makes a Thousand](#clarity-one-decision-that-makes-a-thousand)
+   2. [Dare: The Power of a Graceful “No”](#dare-the-power-of-a-graceful-no)
+   3. [Uncommit: Win Big by Cutting Your Losses](#uncommit-win-big-by-cutting-your-losses)
+   4. [Edit: The Invisible Art](#edit-the-invisible-art)
+   5. [Limit: The Freedom of Setting Boundaries](#limit-the-freedom-of-setting-boundaries)
+4. [EXECUTE: REMOVING OBSTACLES AND MAKING EXECUTION EFFORTLESS](#4-execute-removing-obstacles-and-making-execution-effortless)
+   1. [Buffer: The Unfair Advantage](#buffer-the-unfair-advantage)
+   2. [Subtract: Bring Forth More by Removing Obstacles](#subtract-bring-forth-more-by-removing-obstacles)
+   3. [Progress: The Power of Small Wins](#progress-the-power-of-small-wins)
+   4. [Flow: The Genius of Routine](#flow-the-genius-of-routine)
+   5. [Focus: What’s Important Now?](#focus-whats-important-now)
+   6. [Be: The Essentialist Life](#be-the-essentialist-life)
+
+
 <img src="Essentialism.png" width="250">
 
 **Nonessentilaism** is applying energy in all direction and hence making small progress in all direction. This will give us  the unfulfilling experience of making a millimeter of progress in a million directions.</br>
