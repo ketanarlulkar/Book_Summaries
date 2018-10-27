@@ -92,7 +92,7 @@ It is not about how to get more things done; it’s about how to get the right t
 |Thinks if you have limits you will be limited</br>Sees boundaries as constraining</br>Exerts effort attempting the direct “no”|Knows that if you have limits you will become limitless</br>Sees boundaries as liberating</br>Sets rules in advance that eliminate the need for the direct “no”|
 
 
-# STEP 3. EXECUTE: REMOVING OBSTACLES AND MAKING EXECUTION EFFORTLESS
+# 4. EXECUTE: REMOVING OBSTACLES AND MAKING EXECUTION EFFORTLESS
 
 ## Buffer: The Unfair Advantage
 
