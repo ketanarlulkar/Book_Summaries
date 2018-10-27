@@ -7,3 +7,5 @@
 [How to Win Friends and Influence People - Dale Carnegie](How_to_Win_Friends_and_Influence_People.md)
 
 [The Five Rules for Successful Stock Investing - Pat Dorsey](The_Five_Rules_for_Successful_Stock_Investing.md)
+
+[Essentialism: The Disciplined Pursuit of Less - Greg McKeown](Essentialism/Essentialism:_The_Disciplined_Pursuit_of_Less.md)
