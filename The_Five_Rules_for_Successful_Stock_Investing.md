@@ -1,3 +1,18 @@
+### Table of Contents 
+
+* [The Five Rules](#the-five-rules)
+* [The 7 Mistakes to Avoid](#the-seven-mistakes-to-avoid)
+* [Economic Moat](#economic-moat)
+   * [Companys with Economic Moat](#to-analyze-a-companys-economic-moat-follow-these-four-steps)
+   * [Five ways an individual firm can build a moat](#five-ways-that-an-individual-firm-can-build-sustainable-competitive-advantage)
+   * [Two types of Moats](#think-about-an-economic-moat-in-two-dimensions)
+* [Accrual Accounting](#accrual-accounting)
+* [Financial Statements](#financial-statements)
+   * [The Balance Sheet](#a-the-balance-sheet)
+   * [The Income Statement](#b-the-income-statement)
+   * [The Statement of Cash Flow](#c-the-statement-of-cash-flows)
+* [The 10 Minute Test](#the-10-minute-test)
+
 ### The Five Rules:
 1. Do your homework: Know the business inside and out 
     * Reading the annual report cover to cover
