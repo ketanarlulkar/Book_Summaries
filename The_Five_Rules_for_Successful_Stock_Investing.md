@@ -132,3 +132,39 @@ Include any transactions with the company’s owners or creditors
    + **Issuance/Repayments of Debt:** Tells you whether the company has borrowed money or repaid money it previously borrowed.
 
 If you can’t understand how a dollar flows from a company’s customers back through to shareholders, something’s amiss. Either the company’s business model is too confusing or you need to do more digging before committing any of your money.
+
+### The 10-Minute Test
+**1. Does the Firm Pass a Minimum Quality Hurdle?**
+Avoid Companies with miniscule market capitalizations and firms that trade on the bulletin boards (or pink sheets).
+Avoid firms that don’t file regular financials.
+Avoid IPOs, IPOs are rarely bargains. The big exception is firms that are spun off from larger parent companies.
+
+**2. Has the Company Ever Made an Operating Profit?**
+Unless you’re looking for an alternative to lottery tickets, take a pass on any firm that hasn’t yet proven it can earn a buck.
+
+**3. Does the Company Generate Consistent Cash Flow from Operations?**
+Fast-growing firms can sometimes report profits before they generate cash—but every company has to generate cash eventually.
+
+**4. Are Returns on Equity Consistently above 10 Percent, with Reasonable Leverage?**
+If a nonfinancial firm can’t post ROEs over 10 percent for four years out of every five, for example, odds are good that it’s not worth your time. For financial firms, raise your ROE bar to 12 percent. Don’t forget to check leverage to make sure that it’s in line with industry norms.
+One exception is that cyclical firms
+
+**5. Is Earnings Growth Consistent or Erratic?**
+The best companies post reasonably consistent growth rates. If a firm’s earnings bounce all over the place, it’s either in an extremely volatile industry or it’s regularly getting shellacked by competitors.
+
+**6. How Clean Is the Balance Sheet?**
+Firms with a lot of debt require extra care because their capital structures are often very complicated. If a nonbank firm has a financial leverage ratio above about 4—or a debt-to-equity ratio over 1.0 Check following:
+   a. Is the firm in a stable business?
+   b. Has debt been going down or up as a percentage of total assets?
+
+**7. Does the Firm Generate Free Cash Flow?**
+The one exception is - it’s fine for a firm to be generating negative free cash flow if it’s investing that cash wisely in projects that are likely to pay off well in the future.
+
+**8. How Much “Other” Is There?**
+Numerous one-time charges hint at a management team that may be trying to burnish poor results.
+
+**9. Has the Number of Shares Outstanding Increased Markedly over the Past Several Years?**
+If shares outstanding are consistently increasing by more than around 2 percent per year—assuming no big acquisitions—think long and hard before investing in the firm.
+However, if the number of shares is actually shrinking, the company potentially gets a big gold star. Just be careful that the company isn’t buying it's own overvalued stock. You don’t want to see a company buying its own overvalued stock any more than you want to invest in overvalued shares yourself.
+
+**10. Start valuing the stock.** Look at the stock’s valuation multiples relative to the market, the industry, and the stock’s historical valuation ranges. If the firm has low reinvestment needs, low risk, high returns on capital, or a high growth rate, be prepared to accept a higher price-to-earnings ratio. Do at least a very rough discounted cash flow valuation—think about how much free cash flow the firm is likely to generate next year, how fast it will grow, and add the discounted value of these cash flows to a perpetuity value. If your estimated intrinsic value is very different from the market price, check your assumptions. Are you being too pessimistic or too optimistic? If you recheck your assumptions, the stock still looks undervalued, and your multiple-based analysis didn’t scream “sell,” you might just have uncovered a great investment.
