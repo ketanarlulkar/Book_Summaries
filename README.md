@@ -9,3 +9,5 @@
 [The Five Rules for Successful Stock Investing - Pat Dorsey](The_Five_Rules_for_Successful_Stock_Investing.md)
 
 [Essentialism: The Disciplined Pursuit of Less - Greg McKeown](Essentialism/Essentialism:_The_Disciplined_Pursuit_of_Less.md)
+
+[One Up on Wall Street - Peter Lynch](One_Up_on_Wall_Street.md)
