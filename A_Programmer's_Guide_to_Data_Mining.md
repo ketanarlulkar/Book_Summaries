@@ -28,3 +28,8 @@ Notes from [A Programmer's Guide to Data Mining](http://guidetodatamining.com/)
   <p align="center">
     <img src="https://latex.codecogs.com/svg.latex?%5Cleft%20%5C%7C%20x%20%5Cright%20%5C%7C%20%3D%20%5Csqrt%7B%5Csum_%7Bi%3D1%7D%5E%7Bn%7Dx_%7Bi%7D%5E2%7D">
   </p>
+
+### If we are relying on a single “most similar” person, that will be a problem. Any quirk that person has is passed on as a recommendation. So we can use K-nearest neighbor.
+
+### K-nearest neighbor.
+We use k most similar people to determine recommendations. The best value for k is application specific—you will need to do some experimentation.
