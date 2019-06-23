@@ -11,3 +11,5 @@
 [Essentialism: The Disciplined Pursuit of Less - Greg McKeown](Essentialism/Essentialism:_The_Disciplined_Pursuit_of_Less.md)
 
 [One Up on Wall Street - Peter Lynch](One_Up_on_Wall_Street.md)
+
+[A Programmer's Guide to Data Mining: The Ancient Art of the Numerati - Ron Zacharski](A_Programmer's_Guide_to_Data_Mining.md)
