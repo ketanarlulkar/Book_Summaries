@@ -13,3 +13,5 @@
 [One Up on Wall Street - Peter Lynch](One_Up_on_Wall_Street.md)
 
 [A Programmer's Guide to Data Mining: The Ancient Art of the Numerati - Ron Zacharski](A_Programmer's_Guide_to_Data_Mining.md)
+
+[An Introduction to Statistical Learning - Daniela Witten, Gareth James, Robert Tibshirani and Trevor Hastie](An_Introduction_to_Statistical_Learning_7ed.md)
