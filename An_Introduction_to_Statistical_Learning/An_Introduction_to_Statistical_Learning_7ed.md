@@ -95,3 +95,4 @@ Two Appoaches to estimate f
   :x: Since do not reduce problme to estimating parameters, a very large number of observation required to estimate acurate *f*.
 
 ## The Trade-Off Between Prediction Accuracy and Model Interpretability 
+<img src="InterpretabilityVsFlexibility.JPG" width="500">
