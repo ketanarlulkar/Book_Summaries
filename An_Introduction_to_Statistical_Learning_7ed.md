@@ -60,3 +60,38 @@ In this setting, one may be interested in answering the following questions:
 ### Difference between inference and prediction problem:
 * *how much extra will a house be worth if it has a view of the river?* This is an inference problem.
 * *is this house under- or over-valued?* This is a prediction problem.
+
+## How Do We Estimate f?
+Goal is to apply a statistical learning method to the training data in order to estimate the unknown function *f*.
+
+i.e. find a function <img src="https://latex.codecogs.com/svg.latex?%5Chat%7Bf%7D"> such that <img src="https://latex.codecogs.com/svg.latex?Y%20%5Capprox%20%5Chat%7Bf%7D%28X%29"> for any observation (*X*, *Y*)
+
+Two Appoaches to estimate f
+### 1. Parametric Methods
+  * Make assumpion about functional form or shape of *f*. We call it as model.
+    
+    e.g. if assumption is *f* is linear in *X*:
+    <div align="center">
+      <img src="https://latex.codecogs.com/svg.latex?f%28X%29%20%3D%20%5Cbeta%20_%7B0%7D%20&plus;%20%5Cbeta%20_%7B1%7DX%20_%7B1%7D&plus;%20%5Cbeta%20_%7B1%7DX%20_%7B1%7D&plus;%20%5Ccdots%20&plus;%20%5Cbeta%20_%7Bp%7DX%20_%7Bp%7D">
+    </div>
+  * Use training data to fit or train the model.
+    
+    e.g. in linear model find values of <img src="https://latex.codecogs.com/svg.latex?%5Cinline%20%5Cbeta%20_%7B0%7D%2C%5Cbeta%20_%7B1%7D%2C%20%5Cbeta%20_%7B1%7D%2C%5Ccdots%2C%5Cbeta%20_%7Bp%7D"> such that,
+    <div align="center">
+      <img src="https://latex.codecogs.com/svg.latex?Y%20%5Capprox%20%5Cbeta%20_%7B0%7D%20&plus;%20%5Cbeta%20_%7B1%7DX%20_%7B1%7D&plus;%20%5Cbeta%20_%7B1%7DX%20_%7B1%7D&plus;%20%5Ccdots%20&plus;%20%5Cbeta%20_%7Bp%7DX%20_%7Bp%7D">
+    </div>
+    
+  As this methods reduces the problem to finding the parameters, it's called Parametric Method.
+    
+  :white_check_mark: Easier to estimate parameters
+
+  :x: Model usaually will not match true unknown form of *f*, & estimate will be poor.
+
+  We may try to use flexible model, but will require to calculate more parameters and can lead to *overfitting data*.
+
+### 2. Non-Parametric Methods
+  :white_check_mark: Do not assume functional from of *f*, instead estimate *f* that goes closer to data points.
+  
+  :x: Since do not reduce problme to estimating parameters, a very large number of observation required to estimate acurate *f*.
+
+## The Trade-Off Between Prediction Accuracy and Model Interpretability 
