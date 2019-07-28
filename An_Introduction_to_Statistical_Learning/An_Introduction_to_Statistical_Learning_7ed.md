@@ -19,6 +19,7 @@ We can assume it is of below form
 ### 1. Prediction
 
 We have input X and output Y cannot be easily obtained, so we predict output Y.
+
 <div align="center">
   <img src="https://latex.codecogs.com/svg.latex?%5Chat%7BY%7D%20%3D%20%5Chat%7Bf%7D%28X%29%2C">
 </div>
@@ -96,3 +97,42 @@ Two Appoaches to estimate f
 
 ## The Trade-Off Between Prediction Accuracy and Model Interpretability 
 <img src="InterpretabilityVsFlexibility.JPG" width="500">
+
+### Why would we ever choose to use a more restrictive method instead of a very flexible approach?
+* When end goal is inference, the linear model may be a good choice since it will be quite easy to understand
+the relationship between *Y* and *Xp*.
+* When end goal is prediction, flexible approaches such as the splines or boosting methods may be used for prediction, because interpretability of predictive mdoel is simply not of interest.
+
+## Supervised Versus Unsupervised Learning
+  To fit a model that relates the response to the predictors, with the aim of accurately predicting the response for future observations (prediction) or better understanding the relationship between the response and the predictors (inference).
+  
+  e.g. linear regression, logistic regression, GAM, bosting.
+
+  For every observation i we observe a vector of measurements Xi but no associated response Yi. We lack a response variable that can supervise our analysis. 
+  
+  e.g. Clustering
+
+Many problems fall naturally into the supervised or unsupervised learning paradigms. However, sometimes the question of whether an analysis should be considered supervised or unsupervised is less clear-cut.
+
+## Regression Versus Classification Problems
+Problems with a quantitative response are referred to as regression problems
+
+Problems with a qualitative response are referred to as classification problems.
+
+We tend to select statistical learning methods on the basis of whether the response is quantitative or qualitative; i.e. we might use linear regression when quantitative and logistic regression when qualitative. However, whether the predictors are qualitative or quantitative is generally considered less important.
+
+## Assessing Model Accuracy
+No one method dominates all others over all possible data sets.
+
+### Measuring the Quality of Fit
+quantify the extent to which the predicted response value for a given observation is close to the true response value for that observation. FOr thiss we use Mean Square Error.
+    <div align="center">
+      <img src="https://latex.codecogs.com/svg.latex?MSE%20%3D%20%5Cfrac%7B1%7D%7Bn%7D%5Csum_%7Bi%3D1%7D%5E%7Bn%7D%28y_%7Bi%7D-%5Chat%7Bf%7D%28x_%7Bi%7D%29%29%5E%7B2%7D">
+    </div>
+
+Where,
+
+<img align="left" src="https://latex.codecogs.com/svg.latex?%5Chat%7Bf%7D%28x_%7Bi%7D%29"> is prediction <img src="https://latex.codecogs.com/svg.latex?%5Chat%7Bf%7D"> gives for *i*th observation.
+
+If MSE calculated using training data, it is called training MSE.
+We want to choose the method that gives the lowest test MSE, as opposed to the lowest training MSE. 
