@@ -4,7 +4,7 @@ The inputs is predictors, independent variables, features, or sometimes just var
 
 The output is response or dependent variable, denoted as Y.
 
-For statsitical learning we want to dervice relationship between X & Y.
+For statistical learning we want to device relationship between X & Y.
 We can assume it is of below form
 
 <div align="center">
@@ -67,9 +67,9 @@ Goal is to apply a statistical learning method to the training data in order to 
 
 i.e. find a function <img src="https://latex.codecogs.com/svg.latex?%5Chat%7Bf%7D"> such that <img src="https://latex.codecogs.com/svg.latex?Y%20%5Capprox%20%5Chat%7Bf%7D%28X%29"> for any observation (*X*, *Y*)
 
-Two Appoaches to estimate f
+Two Approaches to estimate f
 ### 1. Parametric Methods
-  * Make assumpion about functional form or shape of *f*. We call it as model.
+  * Make assumption about functional form or shape of *f*. We call it as model.
     
     e.g. if assumption is *f* is linear in *X*:
     <div align="center">
@@ -86,14 +86,14 @@ Two Appoaches to estimate f
     
   :white_check_mark: Easier to estimate parameters
 
-  :x: Model usaually will not match true unknown form of *f*, & estimate will be poor.
+  :x: Model usually will not match true unknown form of *f*, & estimate will be poor.
 
   We may try to use flexible model, but will require to calculate more parameters and can lead to *overfitting data*.
 
 ### 2. Non-Parametric Methods
   :white_check_mark: Do not assume functional from of *f*, instead estimate *f* that goes closer to data points.
   
-  :x: Since do not reduce problme to estimating parameters, a very large number of observation required to estimate acurate *f*.
+  :x: Since do not reduce problem to estimating parameters, a very large number of observation required to estimate accurate *f*.
 
 ## The Trade-Off Between Prediction Accuracy and Model Interpretability 
 <img src="InterpretabilityVsFlexibility.JPG" width="500">
@@ -101,14 +101,14 @@ Two Appoaches to estimate f
 ### Why would we ever choose to use a more restrictive method instead of a very flexible approach?
 * When end goal is inference, the linear model may be a good choice since it will be quite easy to understand
 the relationship between *Y* and *Xp*.
-* When end goal is prediction, flexible approaches such as the splines or boosting methods may be used for prediction, because interpretability of predictive mdoel is simply not of interest.
+* When end goal is prediction, flexible approaches such as the splines or boosting methods may be used for prediction, because interpretability of predictive model is simply not of interest.
 
 ## Supervised Versus Unsupervised Learning
   To fit a model that relates the response to the predictors, with the aim of accurately predicting the response for future observations (prediction) or better understanding the relationship between the response and the predictors (inference).
   
   e.g. linear regression, logistic regression, GAM, bosting.
 
-  For every observation i we observe a vector of measurements Xi but no associated response Yi. We lack a response variable that can supervise our analysis. 
+  For every observation if we observe a vector of measurements Xi but no associated response Yi. We lack a response variable that can supervise our analysis. 
   
   e.g. Clustering
 
@@ -125,7 +125,7 @@ We tend to select statistical learning methods on the basis of whether the respo
 No one method dominates all others over all possible data sets.
 
 ### Measuring the Quality of Fit
-quantify the extent to which the predicted response value for a given observation is close to the true response value for that observation. FOr thiss we use Mean Square Error.
+quantify the extent to which the predicted response value for a given observation is close to the true response value for that observation. For this we use Mean Square Error.
     <div align="center">
       <img src="https://latex.codecogs.com/svg.latex?MSE%20%3D%20%5Cfrac%7B1%7D%7Bn%7D%5Csum_%7Bi%3D1%7D%5E%7Bn%7D%28y_%7Bi%7D-%5Chat%7Bf%7D%28x_%7Bi%7D%29%29%5E%7B2%7D">
     </div>
