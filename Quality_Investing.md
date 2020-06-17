@@ -215,14 +215,14 @@ While good management can enhance results from quality companies, success or fai
 - By the law of large numbers, the sheer frequency of new entrants can eventually lead to one of them becoming successful and disruptive.
 - The big firms in an old industry are still owned by the families that founded them.
 - This is a good indication that the industry is not only enduring, but offers organic growth through retained earnings rather than dilutive new issuances of equity.
- - e.g. Global confectionary industry
+  - e.g. Global confectionary industry
 - Rationality mechanisms
-   - Appreciate company policy to avoid discounts, as this is a sign of a genuinely long-term view as opposed to seeking artificial short-term boosts that risk long-term performance.
+  - Appreciate company policy to avoid discounts, as this is a sign of a genuinely long-term view as opposed to seeking artificial short-term boosts that risk long-term performance.
 - The advantage of share donators
-- Look for share doners in industry.
- - e.g. Ignored division of large companies, smaller companies which are unable to scale up as industry globalize or consolidates.
+  - Look for share doners in industry.
+  - e.g. Ignored division of large companies, smaller companies which are unable to scale up as industry globalize or consolidates.
 - Security by obscurity
- - Locks, lenses, ostomy products and bathroom fittings are relatively small and are not expecting hyper-growth
+  - Locks, lenses, ostomy products and bathroom fittings are relatively small and are not expecting hyper-growth
 
 #### F. Customer Benefits
 
