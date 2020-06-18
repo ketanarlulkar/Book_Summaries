@@ -232,16 +232,16 @@ While good management can enhance results from quality companies, success or fai
 - When buying chocolates for your partner on Valentine’s Day price is probably not among the most important factors.
 - Many people buy their favorite candy without checking price.
 - Products that go in the mouth or on the skin carry more intangible potential than those that sit on a table or go into a machine.
- - e.g. cosmetics market has proven to be less discretionary than one might imagine. L'Oreal.
+  - e.g. cosmetics market has proven to be less discretionary than one might imagine. L'Oreal.
 
 ##### Assurance benefits
 - Assurance benefits are often based on reputation. A reputation of high quality or reliability is earned over time.
 - To compete with reputation is almost impossible, no matter how much money is staked on it.
 - Lower cost of product with greater risk of malfunctioning is not acceptable.
- - e.g. Infant foods (Nestle), life jackets, fire alarms, helmets
+  - e.g. Infant foods (Nestle), life jackets, fire alarms, helmets
 - SGS AND INTERTEK: WHEN IT PAYS TO BE SURE
- - Testing companies with strong reputations can charge clients more, as producers buy a sign of confidence in product quality.
- - But even for premium testing services, such assurance remains a negligible component of overall product costs.
+  - Testing companies with strong reputations can charge clients more, as producers buy a sign of confidence in product quality.
+  - But even for premium testing services, such assurance remains a negligible component of overall product costs.
 
 ##### Convenience benefits
 - Neighbors pay for proximity of grocery stores and restaurants. But, is vulnerable to competition, as it does nothing to prevent new rivals from moving in nearby.
@@ -249,21 +249,21 @@ While good management can enhance results from quality companies, success or fai
 
 ##### Customer types
 - Retail customers
- - Are more willing to splurge on items offering intangible benefits, particularly for smaller purchases.
+  - Are more willing to splurge on items offering intangible benefits, particularly for smaller purchases.
 - Business customers
- - Depend on size.
- - Large companies will focus on cost savings and and pay less for intangible or convinience benefits.
- - A machine that provides reliability and/or measurable production cost savings can be priced to reflect such benefits.
+  - Depend on size.
+  - Large companies will focus on cost savings and and pay less for intangible or convinience benefits.
+  - A machine that provides reliability and/or measurable production cost savings can be priced to reflect such benefits.
 
 #### G. Competitive Advantage
 - Technology
- - Important aspect is sustainability of technoloical advantage.
- - e.g. Kodak and Polaroid
+  - Important aspect is sustainability of technoloical advantage.
+  - e.g. Kodak and Polaroid
 - Network Effect
- - Ironically, when network effects are too strong, they may backfire. An extremely efficient network can produce monopoly power and government intervention risk rises.
- - e.g. auction site, internate search, social media, stock exchanges.
+  - Ironically, when network effects are too strong, they may backfire. An extremely efficient network can produce monopoly power and government intervention risk rises.
+  - e.g. auction site, internate search, social media, stock exchanges.
 - Distribution
- - Large retailers know their size and value to manufacturers. Consequently, they will bargain firmly, pitting manufacturers against each other, even dropping those who won’t negotiate.
+  - Large retailers know their size and value to manufacturers. Consequently, they will bargain firmly, pitting manufacturers against each other, even dropping those who won’t negotiate.
   - In this case, having exceptionally strong product offerings that customers really want matters greatly.
 
 ### Patterns
@@ -273,7 +273,7 @@ While good management can enhance results from quality companies, success or fai
 - These patterns help companies to achieve quality status
 #### A. Recurring Revenue:
 - Recurring revenues arise when an existing customer base buys additional services or products from a company
- - e.g. jet engines, software, elevators
+  - e.g. jet engines, software, elevators
 - Equipment sales fluctuate in tandem with new construction, an inherently cyclical business. But service revenue continues steadily through economic downturns as building owners, occupants, and governments put a premium on safety and reliability.
 - This yields predictable value creation
 ##### Product upfront:
@@ -315,7 +315,7 @@ Position of being a small, but vital, cog helps to create significant barriers t
 
 ##### Magic Ingredients:
 - These are inputs bearing low cost but high value in production processes.
- - e.g. enzymes, flavors and fragrances.
+  - e.g. enzymes, flavors and fragrances.
 - For yogurt makers, starter cultures and flavor additives represent a small fraction of total cost. But they can have a material impact on the taste and texture of the final yogurt, which ultimately determine sales.
 - In industrial processes, gases have a similar role: the cost of oxygen used in steel mills is trifling but if supply is disrupted, production ceases.
 
@@ -330,14 +330,14 @@ e.g. IKEA, Inditex, Costco
 - Cheap but resonable quality furniture - IKEA
 - Affordable Women's fashion - Zara, H&M
 - The success of low price brands depends on
- - Degree of product differentiation
- - Branding only works as long as operators can keep offering customers what they want, which is a fair and attractive deal. 
- - Scale is essential.
- - The model depends on continuous and rapid response to shifting demand, meaning understanding changing consumer preferences, having control of the supply chain, managing inventory effectively, and deftness in distribution. 
+  - Degree of product differentiation
+  - Branding only works as long as operators can keep offering customers what they want, which is a fair and attractive deal. 
+  - Scale is essential.
+  - The model depends on continuous and rapid response to shifting demand, meaning understanding changing consumer preferences, having control of the supply chain, managing inventory effectively, and deftness in distribution. 
 
 ##### Low-cost squared:
 - Business achieves competitive advantages through several cost-saving small steps. When doing so translates into huge cumulative cost savings, the strategy punishes rivals and deters new entrants.
- - Costco stores:
+  - Costco stores:
 Buildings are massive metal sheds in cheap suburban or rural locations. Lighting is cheap. Virtually all products sit on pallets – no shelving, stocking, or carting costs. There are no plastic bags. Stores only accept cash or Costco credit cards. While each saving may not account for much, in aggregate the cut is deep and lets the company do one thing and do it best: offer the lowest price.
  - RYANAIR:
  Started from London-Ireland flight, due to low fuel cost advantage, scaled into markets across Europe
@@ -345,7 +345,7 @@ Buildings are massive metal sheds in cheap suburban or rural locations. Lighting
 #### E. Pricing Power
 - The Pricing Power is more theoretical than real.
 - Because, many companies that have some degree of pricing power prefer not to discuss it due to its close association with monopolies.
- - HERMÈS: Premium luxury goods (leather, scarves, ties, men's and women's wear, perfume, watches, stationery, footwear)
+  - HERMÈS: Premium luxury goods (leather, scarves, ties, men's and women's wear, perfume, watches, stationery, footwear)
 
 ##### Conditional pricing power:
 - e.g. An aircraft engine manufacturer may enjoy pricing power on its service business but this is conditional on its having closed a sale, where it may lack pricing power.
@@ -356,7 +356,7 @@ Buildings are massive metal sheds in cheap suburban or rural locations. Lighting
 
 ##### Downside of pricing power:
 - Price deflation.
- - e.g. Hardware industry with substantial volume growth and significant innovation.
+  - e.g. Hardware industry with substantial volume growth and significant innovation.
 
 #### F. Brand Strength
 Apple brand has its 'superfans', and there are life-long devotees of brands like Louis Vuitton, but we are not aware of similar appreciation groups for Air France or Delta Airlines – or Bank of America or HSBC. Differentiation and customer attachment allows for premium pricing and potentially gains in market share
@@ -481,11 +481,10 @@ Companies with high gross margins, invest more in R&D, A&P, or distribution than
 - When investing is whether a company's products will still exist in a similar and relevant form ten years hence.
 - People will want to travel safely down buildings even if they work for Amazon, and as long as people want to look good, they will buy cosmetics.
 - Scaling innovation risk:
- - Small-scale innovation, like improved product packaging or safety, usually adds value and poses modest risk.
- - Big innovation results in more victims than victors, despite what industry leaders might assert.
+  - Small-scale innovation, like improved product packaging or safety, usually adds value and poses modest risk.
+  - Big innovation results in more victims than victors, despite what industry leaders might assert.
 - Fast-paced innovation:
- - Industries with high innovation rates are especially unpredictable.
-   - e.g. Nokia in mobile
+  - Industries with high innovation rates are especially unpredictable e.g. Nokia in mobile
 
 #### C. Dependency
 ##### Governments:
@@ -551,11 +550,11 @@ Companies with high gross margins, invest more in R&D, A&P, or distribution than
 
 ##### Overconfidence:
 - Any investment in a stock that depends on the outcome of external factors beyond a company's control is on shaky ground.
- - e.g. 
-   - a pharmaceutical company on the assumption of forthcoming approval of a drug;
-   - a gaming company on the belief that authorizing legislation will be enacted;
-   -  a mining company because iron ore prices are likely to rise.
--  The illusion of predictability also seems to recur in companies that are organizationally complex, such as industrial conglomerates or diversified financial institutions.
+  - e.g. 
+    - a pharmaceutical company on the assumption of forthcoming approval of a drug;
+    - a gaming company on the belief that authorizing legislation will be enacted;
+    - a mining company because iron ore prices are likely to rise.
+- The illusion of predictability also seems to recur in companies that are organizationally complex, such as industrial conglomerates or diversified financial institutions.
 
 ##### Debt:
 - Amid periods of economic expansion, the operating leverage enables growing revenue at lower cost, enabling cash flows that comfortably cover repayment of borrowed money. But in economic downturns, high operating leverage readily translates into rapidly deteriorating cash flows and difficulty meeting debt obligations.
