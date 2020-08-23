@@ -17,3 +17,5 @@
 [An Introduction to Statistical Learning - Daniela Witten, Gareth James, Robert Tibshirani and Trevor Hastie](An_Introduction_to_Statistical_Learning/An_Introduction_to_Statistical_Learning_7ed.md)
 
 [Quality Investing: Owning the Best Companies for the Long Term - Lawrence A. Cunningham, Patrick Hargreaves and Torkell T. Eide](Quality_Investing.md)
+
+[The Ride of a Lifetime - Robert Iger](The_Ride_of_a_Lifetime.md)
