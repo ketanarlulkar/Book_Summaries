@@ -21,3 +21,5 @@
 [The Ride of a Lifetime - Robert Iger](The_Ride_of_a_Lifetime.md)
 
 [The Most Important Thing: Uncommon Sense for the Thoughtful Investor - Howard S. Marks](The_Most_Important_Thing.md)
+
+[The Go-Giver - Bob Burg](The_Go_Giver.md)
