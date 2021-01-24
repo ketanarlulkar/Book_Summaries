@@ -136,3 +136,10 @@ Where,
 
 If MSE calculated using training data, it is called training MSE.
 We want to choose the method that gives the lowest test MSE, as opposed to the lowest training MSE. 
+
+
+<img src="MSE.png" width="500">
+
+* As the *flexibility* of the statistical learning method increases, we observe a monotone **decrease in the training MSE** and a **U-shape in the test MSE**. This is a fundamental property of statistical learning that holds regardless of the particular data set at hand and regardless of the statistical method being used.
+
+* As model flexibility increases, training MSE will decrease, but the test MSE may not. When a given method yields a small training MSE but a large test MSE, we are said to be overfitting the data. 
