@@ -143,3 +143,32 @@ We want to choose the method that gives the lowest test MSE, as opposed to the l
 * As the *flexibility* of the statistical learning method increases, we observe a monotone **decrease in the training MSE** and a **U-shape in the test MSE**. This is a fundamental property of statistical learning that holds regardless of the particular data set at hand and regardless of the statistical method being used.
 
 * As model flexibility increases, training MSE will decrease, but the test MSE may not. When a given method yields a small training MSE but a large test MSE, we are said to be overfitting the data. 
+
+### The Bias-Variance Trade-Off
+* **Variance** refers to the amount by which <img src=https://latex.codecogs.com/svg.latex?%5Chat%7Bf%7D> would change if we estimated it using a different training data set. Since the training data are used to fit the statistical learning method, different training data sets will result in a different <img src=https://latex.codecogs.com/svg.latex?%5Chat%7Bf%7D>. But ideally the estimate for f should not vary too much between training sets
+* **Bias** refers to the error that is introduced by approximating a real-life problem, which may be extremely complicated, by a much simpler model. It is unlikely that any real-life problem truly has such a simple linear relationship, and so performing linear regression will undoubtedly result in some bias in the estimate of f
+* As a general rule, as we use more flexible methods, the variance will increase and the bias will decrease. The relative rate of change of these two quantities determines whether the test MSE increases or decreases.
+* The challenge lies in finding a method for which both the variance and the squared bias are low.
+
+<img src="tradeoff.png" width="700">
+
+
+### Clasification
+The most common approach for quantifying the accuracy of our estimate <img src=https://latex.codecogs.com/svg.latex?%5Chat%7Bf%7D> is the *training error rate*
+
+<div align="center">
+  <img src=https://latex.codecogs.com/svg.latex?%5Cfrac%7B1%7D%7Bn%7D%5Csum_%7Bi%3D1%7D%5E%7Bn%7DI%28y_%7Bi%7D%5Cneq%5Chat%7By%7D_%7Bi%7D%29>
+</div>
+
+Where,
+
+<img align="left" src=https://latex.codecogs.com/svg.latex?%5Chat%7By%7D_%7Bi%7D> is  predicted class label for the ith observation using <img src=https://latex.codecogs.com/svg.latex?%5Chat%7Bf%7D>
+
+<img align="left" src=https://latex.codecogs.com/svg.latex?I%28y_%7Bi%7D%5Cneq%5Chat%7By%7D_%7Bi%7D%29> is an indicator variable that equals 1 if <img src=https://latex.codecogs.com/svg.latex?y_%7Bi%7D%5Cneq%5Chat%7By%7D_%7Bi%7D> (mis-clasification) and zero if <img src=https://latex.codecogs.com/svg.latex?y_%7Bi%7D%3D%5Chat%7By%7D_%7Bi%7D> (correct clasification)
+
+The *test error rate* associated with a set of test observations of the form test error (x0, y0) is given by
+
+<div align="center">
+  <img src=https://latex.codecogs.com/svg.latex?Ave%28I%28y_%7Bi%7D%5Cneq%5Chat%7By%7D_%7Bi%7D%29>
+</div>
+
