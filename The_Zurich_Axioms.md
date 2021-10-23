@@ -20,3 +20,16 @@ This is **inverse of Buddhist philosophy** of the less you own, the less you wil
 
 ### Minor Axiom III: Decide in advance what gain you want from a venture, and when you get it, get out
 One excellent way to reinforce the ‘ending’ feeling is to rig up some kind of reward for yourself. A medal, if you will.
+
+# The Third Major Axiom: On Hope
+## When the ship starts to sink, don’t pray. Jump.
+* Dont wait around when trouble shows itself. Get away from it promptly. Don't hope, don't pray. Hope and prayer are nice, no doubt, but they are not useful as tools of a speculative operation.
+* Ask yourself whether the developing problem is likely to get fixed. Look for trustworthy and tangible evidence that improvement is on the way, and if you see none, take action without further delay. Calmly and deliberately before everybody else has started to panic, jump off the ship and save yourself.
+
+#### Obstacle while jumping:
+1. The fear of regret of a loser will turn into a winner after you’ve gone away. But that is seldom a wise course where your money is concerned.
+2. The need to abandon part of an investment. This is inordinately painful to some. To console you, however, I can tell you that it gets less painful with practice.
+3. The third obstacle to the Third Axiom’s implementation is the difficulty of admitting you were wrong. - you should explore yourself and seek ways to handle it.
+
+### Minor Axiom IV: Accept small losses cheerfully as a fact of life. Expect to experience several while awaiting a large gain.
+Ideally we should welcome our small losses, since they protect us from large losses.
