@@ -33,3 +33,9 @@ One excellent way to reinforce the ‘ending’ feeling is to rig up some kind o
 
 ### Minor Axiom IV: Accept small losses cheerfully as a fact of life. Expect to experience several while awaiting a large gain.
 Ideally we should welcome our small losses, since they protect us from large losses.
+
+# The Fourth Major Axiom: On Forecasts
+## Human behavior cannot be predicted. Distrust anyone who claims to know the future, however dimly.
+* It is of the utmost importance that you never take economists, market advisers, or other financial oracles seriously.
+* It is easy to get dazzled by a successful prophet, especially in the world of money.
+* Forecasts of physical events (weather, tide tables, sun rise) can be trusted, but the stock market (colossal engine of human emotion) can not be predicted.
