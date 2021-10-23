@@ -39,3 +39,11 @@ Ideally we should welcome our small losses, since they protect us from large los
 * It is of the utmost importance that you never take economists, market advisers, or other financial oracles seriously.
 * It is easy to get dazzled by a successful prophet, especially in the world of money.
 * Forecasts of physical events (weather, tide tables, sun rise) can be trusted, but the stock market (colossal engine of human emotion) can not be predicted.
+
+# The Fifth Major Axiom: On Patterns
+## Chaos is not dangerous until it begins to look orderly.
+* Everybody is looking for this Formula. Unfortunately, there isn’t one.
+* Wary of advisors who claims to see anything but chaos
+
+### Minor Axiom V: Beware the Historian’s Trap
+
