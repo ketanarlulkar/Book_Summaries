@@ -64,6 +64,15 @@ This is **inverse of Buddhist philosophy** of the less you own, the less you wil
 ### Minor Axiom X: Never hesitate to abandon a venture if something more attractive comes into view
 * Getting attached to things decreases your mobility, the capacity to move fast when the need arises.
 
+# The Seventh Major Axiom: On Intuition
+## A hunch can be trusted if it can be explained.
+* Trust a hunch only if you can explain it.
+* Put your hunch to the test, to improve the odds in your favor.
+* No matter how good a hunch feels, don’t let it lull you into a state of overconfidence. Stay worried.
+
+### Minor Axiom XI: Never confuse a hunch with a hope
+* Examine hunch with extra care and double one's guard in case of trouble
+
 
 
 
