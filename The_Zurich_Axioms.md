@@ -83,5 +83,10 @@ This is **inverse of Buddhist philosophy** of the less you own, the less you wil
 
 ### Minor Axiom XIII: A superstition need not be exorcised. It can be enjoyed, provided it is kept in its place.
 
+# The Ninth Major Axiom: On Optimism and Pessimism
+## Optimism means expecting the best, but confidence means knowing how you will handle the worst. Never make a move if you are merely optimistic.
+* Never make a move if you are merely optimistic. Before committing your money to a venture, ask how you will save yourself if things go wrong. Once you have that clearly worked out, you’ve got something better than optimism. You’ve got confidence.
+
+
 
 
