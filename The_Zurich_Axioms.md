@@ -87,6 +87,13 @@ This is **inverse of Buddhist philosophy** of the less you own, the less you wil
 ## Optimism means expecting the best, but confidence means knowing how you will handle the worst. Never make a move if you are merely optimistic.
 * Never make a move if you are merely optimistic. Before committing your money to a venture, ask how you will save yourself if things go wrong. Once you have that clearly worked out, you’ve got something better than optimism. You’ve got confidence.
 
+# The Tenth Major Axiom: On Consensus
+## Disregard the majority opinion. It is probably wrong.
+### Minor Axiom XIV: Never follow speculative fads. Often, the best time to buy something is when nobody else wants it.
+* Majority pressure can not only dislodge a good hunch; it can even make us doubt ourselves when we know we’re right, since arguing with a majority is enormously hard.
+* Best defense against majority pressure is the simple awareness of its existence and coercive power.
+* This dosent mean blindly do what majority isn't dong, it means resist majority pressure and study situation yourself.
+
 
 
 
