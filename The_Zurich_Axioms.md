@@ -73,7 +73,15 @@ This is **inverse of Buddhist philosophy** of the less you own, the less you wil
 ### Minor Axiom XI: Never confuse a hunch with a hope
 * Examine hunch with extra care and double one's guard in case of trouble
 
+# The Eighth Major Axiom: On Religion and the Occult
+## It is unlikely that God’s plan for the universe includes making you rich.
+* God may do much for you, but one thing He plainly isn’t concerned about is the size of your bank account.
+* Money and the supernatural are an explosive mixture that can blow up in your face. Keep the two worlds apart.
 
+### Minor Axiom XII: If astrology worked, all astrologers would be rich
+* Every occult practitioner can come up with at least one good story about a lucky hit. But hold tight to your skepticism and your money.
+
+### Minor Axiom XIII: A superstition need not be exorcised. It can be enjoyed, provided it is kept in its place.
 
 
 
