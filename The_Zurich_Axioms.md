@@ -89,11 +89,15 @@ This is **inverse of Buddhist philosophy** of the less you own, the less you wil
 
 # The Tenth Major Axiom: On Consensus
 ## Disregard the majority opinion. It is probably wrong.
-### Minor Axiom XIV: Never follow speculative fads. Often, the best time to buy something is when nobody else wants it.
 * Majority pressure can not only dislodge a good hunch; it can even make us doubt ourselves when we know we’re right, since arguing with a majority is enormously hard.
 * Best defense against majority pressure is the simple awareness of its existence and coercive power.
+
+### Minor Axiom XIV: Never follow speculative fads. Often, the best time to buy something is when nobody else wants it.
 * This dosent mean blindly do what majority isn't dong, it means resist majority pressure and study situation yourself.
 
+# The Eleventh Major Axiom: On Stubbornness
+## If it doesn’t pay off the first time, forget it.
+* Obsession clouds one's judgment and fogs the vision.
 
-
-
+### Minor Axiom XV: Never try to save a bad investment by averaging down
+* 
