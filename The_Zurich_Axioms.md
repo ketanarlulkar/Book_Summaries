@@ -19,7 +19,7 @@ This is **inverse of Buddhist philosophy** of the less you own, the less you wil
 * And when you’ve sold, don’t torment yourself if the winning set continues without you. In all likelihood it won’t continue long.
 
 ### Minor Axiom III: Decide in advance what gain you want from a venture, and when you get it, get out
-One excellent way to reinforce the ‘ending’ feeling is to rig up some kind of reward for yourself. A medal, if you will.
+* One excellent way to reinforce the ‘ending’ feeling is to rig up some kind of reward for yourself. A medal, if you will.
 
 # The Third Major Axiom: On Hope
 ## When the ship starts to sink, don’t pray. Jump.
@@ -32,7 +32,7 @@ One excellent way to reinforce the ‘ending’ feeling is to rig up some kind o
 3. The third obstacle to the Third Axiom’s implementation is the difficulty of admitting you were wrong. - you should explore yourself and seek ways to handle it.
 
 ### Minor Axiom IV: Accept small losses cheerfully as a fact of life. Expect to experience several while awaiting a large gain.
-Ideally we should welcome our small losses, since they protect us from large losses.
+* Ideally we should welcome our small losses, since they protect us from large losses.
 
 # The Fourth Major Axiom: On Forecasts
 ## Human behavior cannot be predicted. Distrust anyone who claims to know the future, however dimly.
@@ -42,8 +42,29 @@ Ideally we should welcome our small losses, since they protect us from large los
 
 # The Fifth Major Axiom: On Patterns
 ## Chaos is not dangerous until it begins to look orderly.
-* Everybody is looking for this Formula. Unfortunately, there isn’t one.
-* Wary of advisors who claims to see anything but chaos
+* Don't see order where order does not exist, but study the speculative medium and take best shot and remember it is still a chance even though you have studied it.
 
 ### Minor Axiom V: Beware the Historian’s Trap
+* Wrong believe that the orderly repetition of history allows for accurate forecasting in certain situations.
+### Minor Axiom VI: Beware the Chartist’s Illusion
+* Making charts of stock prices is like making charts of ocean froth. You’ll see each pattern once, and then it will be gone.
+### Minor Axiom VII: Beware the Correlation and Causality Delusions
+* Even the most rational minds perceives links of cause and effect where none exist. When we have to, we invent them, since we are order-seeking humans.
+### Minor Axiom VIII: Beware the Gambler’s Fallacy
+* The incorrect belief that, if a particular event occurs more frequently than normal during the past, it is less likely to happen in the future (or vice versa), when it has otherwise been established that the probability of such events does not depend on what has happened in the past.
+
+# The Sixth Major Axiom: On Mobility
+## Avoid putting down roots. They impede motion.
+* Dont get stuck into being surrounded by the old, the familiar, and the comfortable
+* You must stay footloose, ready to jump away from trouble or seize opportunities quickly.
+
+### Minor Axiom IX: Do not become trapped in a souring venture because of sentiments like loyalty and nostalgia
+* It is a mistake to let yourself get too attached to any physical thing in which your capital is invested. Get attached to people, but not to houses or neighborhoods.
+
+### Minor Axiom X: Never hesitate to abandon a venture if something more attractive comes into view
+* Getting attached to things decreases your mobility, the capacity to move fast when the need arises.
+
+
+
+
 
