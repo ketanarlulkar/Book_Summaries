@@ -100,4 +100,11 @@ This is **inverse of Buddhist philosophy** of the less you own, the less you wil
 * Obsession clouds one's judgment and fogs the vision.
 
 ### Minor Axiom XV: Never try to save a bad investment by averaging down
-* 
+* The loss-averaging technique is like the roulette systems since it will work sometimes when you are lucky, which adds to its allure.
+* Cost-averaging clouds one’s judgment.
+* Encourages you to disregard the important Third Axiom, on hope: when the ship starts to sink, don’t pray. Jump.
+
+# The Twelfth Major Axiom: On Planning
+## Long-range plans engender the dangerous belief that the future is under control. It is important never to take your own long-range plans, or other people’s, seriously.
+* Do not get rooted in long-range plans or long-term investments. Instead react to events as they unfold in the present.
+### Minor Axiom XVI: Shun long-term investments
