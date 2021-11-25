@@ -27,3 +27,5 @@
 [A Wealth of Common Sense - Ben Carlson](A_Wealth_of_Common_Sense.md)
 
 [The Zurich Axioms - Max Gunther](The_Zurich_Axioms.md)
+
+[The OUTSIDERS - William Thorndike](The_OUTSIDERS.md)
