@@ -31,3 +31,5 @@
 [The OUTSIDERS - William Thorndike](The_OUTSIDERS.md)
 
 [Richer, Wiser, Happier - William Green](Richer_Wiser_Happier.md)
+
+[Warren Buffett and the Interpretation of Financial Statements](Warren_Buffett_and_the_Interpretation_of_Financial_Statements.md)
