@@ -19,6 +19,7 @@ Read
 |The OUTSIDERS|William Thorndike|[Notes](The_OUTSIDERS.md)|
 |Richer, Wiser, Happier|William Green|[Notes](Richer_Wiser_Happier.md)|
 |Warren Buffett and the Interpretation of Financial Statements|David Clark and Mary Buffett|[Notes](Warren_Buffett_and_the_Interpretation_of_Financial_Statements.md)|
+|Buffetology|David Clark and Mary Buffett|[Notes](Buffetology.md)|
 
 To Read
 |Book|Author|One Line Pitch|
