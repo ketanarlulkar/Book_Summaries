@@ -20,6 +20,7 @@ Read
 |Richer, Wiser, Happier|William Green|[Notes](Richer_Wiser_Happier.md)|
 |Warren Buffett and the Interpretation of Financial Statements|David Clark and Mary Buffett|[Notes](Warren_Buffett_and_the_Interpretation_of_Financial_Statements.md)|
 |Buffetology|David Clark and Mary Buffett|[Notes](Buffetology.md)|
+|Competition Demystified|Bruce Greenwald|[Notes](Competition_Demystified.md)|
 
 To Read
 |Book|Author|One Line Pitch|
@@ -28,4 +29,4 @@ To Read
 |Big Mistakes: The Best Investors and Their Worst Investments|Michael Batnick|Mistakes of big investors and sizing decisions|
 |The Biggest Bluff|Maria Konnikova|Apply poker principals to deal with uncertainty in investing|
 |How to Make Money in Stocks|William O'Neil|CAN SLIM Framework|
-|Competition Demystified|Bruce Greenwald|Build value chain of industry to indentify profit pools|
+
