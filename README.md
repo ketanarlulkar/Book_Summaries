@@ -21,6 +21,7 @@ Read
 |Warren Buffett and the Interpretation of Financial Statements|David Clark and Mary Buffett|[Notes](Warren_Buffett_and_the_Interpretation_of_Financial_Statements.md)|
 |Buffetology|David Clark and Mary Buffett|[Notes](Buffetology.md)|
 |Competition Demystified|Bruce Greenwald|[Notes](Competition_Demystified.md)|
+|Think and Grow Rich|Napoleon Hill|[Notes](Think_and_Grow_Rich.md)|
 
 To Read
 |Book|Author|One Line Pitch|
