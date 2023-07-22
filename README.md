@@ -22,6 +22,7 @@ Read
 |Buffetology|David Clark and Mary Buffett|[Notes](Buffetology.md)|
 |Competition Demystified|Bruce Greenwald|[Notes](Competition_Demystified.md)|
 |Think and Grow Rich|Napoleon Hill|[Notes](Think_and_Grow_Rich.md)|
+|Tuesdays With Morrie|Mitch Albom|[Notes](Tuesdays_With_Morrie.md)|
 
 To Read
 |Book|Author|One Line Pitch|
