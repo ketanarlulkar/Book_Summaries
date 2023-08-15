@@ -23,6 +23,7 @@ Read
 |Competition Demystified|Bruce Greenwald|[Notes](Competition_Demystified.md)|
 |Think and Grow Rich|Napoleon Hill|[Notes](Think_and_Grow_Rich.md)|
 |Tuesdays With Morrie|Mitch Albom|[Notes](Tuesdays_With_Morrie.md)|
+|How to Make Money in Stocks|William O'Neil|[Notes](How_to_Make_Money_in_Stocks.md)|
 
 To Read
 |Book|Author|One Line Pitch|
@@ -30,5 +31,5 @@ To Read
 |Understanding Michael Porter|Joan Magretta|Best book on business strategy|
 |Big Mistakes: The Best Investors and Their Worst Investments|Michael Batnick|Mistakes of big investors and sizing decisions|
 |The Biggest Bluff|Maria Konnikova|Apply poker principals to deal with uncertainty in investing|
-|How to Make Money in Stocks|William O'Neil|CAN SLIM Framework|
+
 
