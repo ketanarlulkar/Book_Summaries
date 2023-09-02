@@ -24,6 +24,7 @@ Read
 |Think and Grow Rich|Napoleon Hill|[Notes](Think_and_Grow_Rich.md)|
 |Tuesdays With Morrie|Mitch Albom|[Notes](Tuesdays_With_Morrie.md)|
 |How to Make Money in Stocks|William O'Neil|[Notes](How_to_Make_Money_in_Stocks.md)|
+|100 Baggers: Stocks That Return 100-to-1|Christopher W. Mayer|[Notes](100-Baggers.md)|
 
 To Read
 |Book|Author|One Line Pitch|
