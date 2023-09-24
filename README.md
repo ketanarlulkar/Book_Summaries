@@ -25,6 +25,7 @@ Read
 |Tuesdays With Morrie|Mitch Albom|[Notes](Tuesdays_With_Morrie.md)|
 |How to Make Money in Stocks|William O'Neil|[Notes](How_to_Make_Money_in_Stocks.md)|
 |100 Baggers: Stocks That Return 100-to-1|Christopher W. Mayer|[Notes](100-Baggers.md)|
+|Value Investing and Behavioral Finance|Parag Parikh|[Notes](Value_Investing_and_Behavioral_Finance.md)|
 
 To Read
 |Book|Author|One Line Pitch|
