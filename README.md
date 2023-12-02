@@ -27,6 +27,7 @@ Read
 |100 Baggers: Stocks That Return 100-to-1|Christopher W. Mayer|[Notes](100-Baggers.md)|
 |Value Investing and Behavioral Finance|Parag Parikh|[Notes](Value_Investing_and_Behavioral_Finance.md)|
 |The Thoughtful Investor|Basant Maheshwari|[Notes](The_Thoughtful_Investor.md)|
+|Capital Returns: Investing through the Capital Cycle|Edward Chancellor|[Notes](Capital_Returns.md)|
 
 To Read
 |Book|Author|One Line Pitch|
