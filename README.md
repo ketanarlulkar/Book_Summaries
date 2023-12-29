@@ -29,6 +29,7 @@ Read
 |The Thoughtful Investor|Basant Maheshwari|[Notes](The_Thoughtful_Investor.md)|
 |Capital Returns: Investing through the Capital Cycle|Edward Chancellor|[Notes](Capital_Returns.md)|
 |Alchemy: The Dark Art and Curious Science of Creating Magic in Brands, Business, and Life|Rory Sutherland|[Notes](Alchemy%3A%20The%20Dark%20Art%20and%20Curious%20Science%20of%20Creating%20Magic%20in%20Brands%2C%20Business%2C%20and%20Life.md)|
+|Expectations Investing|Michael Mauboussin and Alfred Rappaport|[Notes](Expectations_Investing/Expectations_Investing.md)|
 
 To Read
 |Book|Author|One Line Pitch|
