@@ -1,15 +1,15 @@
-- [Section 1: AVOID BIG RISKS](#section-1--avoid-big-risks)
+- [Section 1 - AVOID BIG RISKS](#section-1---avoid-big-risks)
   * [How not to invest](#how-not-to-invest)
-- [Section 2: BUY HIGH QUALITY AT A FAIR PRICE](#section-2--buy-high-quality-at-a-fair-price)
+- [Section 2 - BUY HIGH QUALITY AT A FAIR PRICE](#section-2---buy-high-quality-at-a-fair-price)
   * [Select a single business trait that brings with it many favorable business qualities.](#select-a-single-business-trait-that-brings-with-it-many-favorable-business-qualities)
-  * [owning only robust businesses that are resilient to internal and external shocks, while continuing to evolve and grow.](#owning-only-robust-businesses-that-are-resilient-to-internal-and-external-shocks--while-continuing-to-evolve-and-grow)
+  * [owning only robust businesses that are resilient to internal and external shocks while continuing to evolve and grow](#owning-only-robust-businesses-that-are-resilient-to-internal-and-external-shocks-while-continuing-to-evolve-and-grow)
   * [Ignore proximate causes of stock price movements while focusing on ultimate explanations of business success](#ignore-proximate-causes-of-stock-price-movements-while-focusing-on-ultimate-explanations-of-business-success)
   * [Studying and understanding the history of a business and an industry instead of constantly obsessing over the future](#studying-and-understanding-the-history-of-a-business-and-an-industry-instead-of-constantly-obsessing-over-the-future)
   * [internalizing the recurring patterns of success and failure in the business world](#internalizing-the-recurring-patterns-of-success-and-failure-in-the-business-world)
   * [differentiate between the honest and dishonest signals of businesses](#differentiate-between-the-honest-and-dishonest-signals-of-businesses)
-- [Section 3: DON’T BE LAZY—BE VERY LAZY](#section-3--don-t-be-lazy-be-very-lazy)
+- [Section 3 - DON’T BE LAZY - BE VERY LAZY](#section-3---dont-be-lazy---be-very-lazy)
 
-# Section 1: AVOID BIG RISKS
+# Section 1 - AVOID BIG RISKS
 ## How not to invest
 * When a management with a reputation for brilliance tackles a business with a reputation for poor fundamental economics, it is the reputation of the business that remains intact.
 * Which of the following investment strategies should you use:
@@ -24,7 +24,7 @@
 ### M&A Failures Reasons
 * Culture mismatch, overpayment, misevaluation of the opportunity, external factors, and integration problems, among many others
    
-# Section 2: BUY HIGH QUALITY AT A FAIR PRICE
+# Section 2 - BUY HIGH QUALITY AT A FAIR PRICE
 ## Select a single business trait that brings with it many favorable business qualities.
 * An economic franchise arises from a product or service that (1) is needed or desired; (2) is thought by its customers to have no close substitute; and (3) is not subject to price regulation. The existence of all three conditions will be demonstrated by a company’s ability to regularly price its product or service aggressively and thereby to earn high rates of return on capital. Moreover, franchises can tolerate mismanagement. Inept managers may diminish a franchise’s profitability, but they cannot inflict mortal damage.  - Warren Buffett
 * Dont prefer ROE since it is calculated after taxes and interest payments, and hence mixes operating performance with financing strategy and tax structure
@@ -40,7 +40,7 @@
      * if there is high tariff protection for a product or commodity domestic companies manufacturing the same product or commodity may earn decent profits without breaking a sweat
      * if its key competitors get in trouble of their own making, the company can earn decent return on capital
   2. We may miss companies that may become hugely successful in the future.
-## owning only robust businesses that are resilient to internal and external shocks, while continuing to evolve and grow.
+## owning only robust businesses that are resilient to internal and external shocks while continuing to evolve and grow
 * What we seek as owners in our businesses: the ability to keep evolving while staying robust
 * If a company’s growth is lower than its ROCE, it will also keep generating free cash flow
 * In general, highly robust businesses evolve by taking calculated risks. But sometimes, very rarely, businesses can succeed by taking huge risks, as shown by Netflix.
@@ -72,7 +72,7 @@
 * Any signal that management gives during a meeting is a cheap signal requiring minimal effort. And since it is cheap, the signal may be dishonest even if the management is not
 * We ignore - press releases, management meetings and interviews, investor conferences, and earnings guidance since all these signals attempt to favorably impress investors and are generally quite easy to produce
 * Rely exclusively on honest signals from businesses that are costly to produce - past operating and financial performance and scuttlebutt signals from suppliers, customers, competitors, ex-employees, and industry experts
-# Section 3: DON’T BE LAZY—BE VERY LAZY
+# Section 3 - DON’T BE LAZY - BE VERY LAZY
 * High-quality businesses, seem to undergo many changes when measured over days or weeks or months but are much more stable when the period of measurement is years or decades.
 * Grant–Kurtén principle of investing (GKPI). GKPI says: When we find high-quality businesses that do not fundamentally alter their character over the long term, we should exploit the inevitable short-term fluctuations in their businesses for buying and not selling
 * Great businesses generally remain great, and bad businesses generally remain bad.
