@@ -1,5 +1,5 @@
 - [Section 1: AVOID BIG RISKS](#section-1--avoid-big-risks)
-  * [How not to invest](#how-not-to-invest-)
+  * [How not to invest](#how-not-to-invest)
 - [Section 2: BUY HIGH QUALITY AT A FAIR PRICE](#section-2--buy-high-quality-at-a-fair-price)
   * [Select a single business trait that brings with it many favorable business qualities.](#select-a-single-business-trait-that-brings-with-it-many-favorable-business-qualities)
   * [owning only robust businesses that are resilient to internal and external shocks, while continuing to evolve and grow.](#owning-only-robust-businesses-that-are-resilient-to-internal-and-external-shocks--while-continuing-to-evolve-and-grow)
