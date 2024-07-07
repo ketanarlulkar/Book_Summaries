@@ -32,6 +32,7 @@ Read
 |Expectations Investing|Michael Mauboussin and Alfred Rappaport|[Notes](Expectations_Investing/Expectations_Investing.md)|
 |What I Learned About Investing From Darwin|Pulak Prasad|[Notes](What%20I%20Learned%20About%20Investing%20From%20Darwin.md)
 |A Zebra in Lion Country|Everett B. Mattlin and Ralph Wanger|[Notes](A%20Zebra%20in%20Lion%20Country.md)|
+|Dopamine Nation|Anna Lembke|[Notes](Dopamine%20Nation.md)|
 
 To Read
 |Book|Author|One Line Pitch|
