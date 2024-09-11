@@ -34,6 +34,7 @@ Read
 |A Zebra in Lion Country|Everett B. Mattlin and Ralph Wanger|[Notes](A%20Zebra%20in%20Lion%20Country.md)|
 |Dopamine Nation|Anna Lembke|[Notes](Dopamine%20Nation.md)|
 |Masterclass with Super-Investors|Vishal Mittal|[Notes](Masterclass%20with%20Super-Investors.md)|
+|Guns, Germs, and Steel: The Fates of Human Societies|Jared Diamond|[Notes](Guns_Germs_and_Steel.md)|
 
 To Read
 |Book|Author|One Line Pitch|
