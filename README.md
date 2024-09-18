@@ -35,7 +35,7 @@ Read
 |Dopamine Nation|Anna Lembke|[Notes](Dopamine%20Nation.md)|
 |Masterclass with Super-Investors|Vishal Mittal|[Notes](Masterclass%20with%20Super-Investors.md)|
 |Guns, Germs, and Steel: The Fates of Human Societies|Jared Diamond|[Notes](Guns_Germs_and_Steel.md)|
-|Forging Mettle|Pavan C. Lall|[Notes](Forging_Mettle.md)|
+|Forging Mettle: Nrupender Rao and the Pennar Story|Pavan C. Lall|[Notes](Forging_Mettle.md)|
 
 To Read
 |Book|Author|One Line Pitch|
