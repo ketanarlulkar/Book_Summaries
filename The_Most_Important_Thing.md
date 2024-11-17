@@ -40,3 +40,75 @@ selling (and very tough to buy) when the opposite is true at the bottom and hold
 * Like-minded friends and colleagues from whom to gain support (and for you to support).
  
 These things aren't sure to do the job, but they can give you a fighting chance.
+## 16 Appreciating the Role of Luck
+- Don't be tempted when others succeed widely with something unknown to you
+- In very long term, focus on earnings. There is good chance of getting PE expansion as icing on the cake 🍰. [More](https://www.tankrich.com/luck-vs-skills/)
+- Be honest about your success & failures.
+- Learn to decide which outcome came because of luck and which becasue of skills
+- Skills should be judged over large number of trials
+- Cautious and suboptimizing approach may produce average results in short runs, but superior investors will be able to produce above average results over long run.
+- Take action based on thinking of **future events in terms of a probability distribution** instead of single future that is knowable
+- Its easy to misunderstand
+  
+    | Thing 1      With     | Thing 2               |
+    | --------------------- | --------------------- |
+    | Luck                  | Skill                 |
+    | Randomness            | Determinism           |
+    | Probability           | Certainty             |
+    | Belief, conjecture    | Knowledge, certitude  |
+    | Theory                | Reality               |
+    | Anecdote, coincidence | Causality, law        |
+    | Survivorship bias     | Market outperformance |
+    | Lucky idiot           | Skilled investor      |
+        
+## 18 Avoiding Pitfalls
+    
+### Pitfalls can be caused by
+
+1. Analytical/Intellectual error
+    1. Too little information
+    2. Incorrect information
+    3. Wrong analytical process
+    4. *Failure of imagination* 
+        - Unable to conceive full range of possible outcomes or unable to understand consequences of more extreme occurance
+        
+        > The assumption that something can't happen has the potential to make it happen, since people who believe it can't happen will engage in risky behaviour and thus alter the environment
+        > 
+        - In black swan event, failure of imagination in first instance is not **anticipating possible extreme outcome**, and in second instance is **not understanding consequences of that extreme outcome**.
+2. Physiological/Emotional error
+    1. Greed and fear
+    2. Willingness to suspend disbelief and scepticism
+    3. Ego and envy
+    4. Drive to pursue high returns through risk bearing
+    5. Overrate once knowledge
+3. Failure to recognise market manias and move in opposite direction
+    1. Too much capital availability, makes money flow to wrong place
+    2. When capital goes where it shouldn't, bad things happen
+    3. When capital is in oversupply, investors compete for low returns and thin margin for error
+    4. Widespread disregard of risk create great risk
+    5. Inadequate due diligence leads to investment loss
+    6. Capital is devoted to innovative investments, many of which fails test of time
+    7. Hidden fault lines in portfolio, can make price of unrelated assets to move in tandem
+    8. Physiological and technical factors can swap fundamentals
+    9. Market change, invalidating models
+    10. Leverage magnifies outcomes but doesn't add value
+    11. Excess correct
+
+> When there is nothing perticularly cleaver to do, potential pitfall lies in insisting on being cleaver
+
+## 19 Adding Value
+
+![https://forum.valuepickr.com/uploads/default/original/2X/b/b0bb39ad5db095420b400918a97ced8f8af9669c.jpg](https://forum.valuepickr.com/uploads/default/original/2X/b/b0bb39ad5db095420b400918a97ced8f8af9669c.jpg)
+
+- Without skills agressive investor moves a lot in boh directions and defensive investor moves little in either direction
+- But **performance of investors who adds value is asymetrical, they capture more % of market gain than market losses**.
+- Everything is double edged sword in investing with exception of superior skills (good investment process)
+## 20 Reasonable Expectations
+- If someone offers a sure-to-be-right view of future, as Is it too good to be true?, Why he is telling me this?
+- The bottom can only be identified in retrospect.
+
+<aside>
+💡 The perfect is enemy of good. e.g. buying only in bottom can cause you to miss a lot
+</aside>
+
+- Unresonable expectations will always get you in trouble through greater risk than perceived.
