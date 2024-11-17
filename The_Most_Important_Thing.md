@@ -40,7 +40,7 @@ selling (and very tough to buy) when the opposite is true at the bottom and hold
 * Like-minded friends and colleagues from whom to gain support (and for you to support).
  
 These things aren't sure to do the job, but they can give you a fighting chance.
-## 16 Appreciating the Role of Luck
+## 16. Appreciating the Role of Luck
 - Don't be tempted when others succeed widely with something unknown to you
 - In very long term, focus on earnings. There is good chance of getting PE expansion as icing on the cake 🍰. [More](https://www.tankrich.com/luck-vs-skills/)
 - Be honest about your success & failures.
@@ -61,7 +61,7 @@ These things aren't sure to do the job, but they can give you a fighting chance.
     | Survivorship bias     | Market outperformance |
     | Lucky idiot           | Skilled investor      |
         
-## 18 Avoiding Pitfalls
+## 18. Avoiding Pitfalls
     
 ### Pitfalls can be caused by
 
@@ -96,14 +96,14 @@ These things aren't sure to do the job, but they can give you a fighting chance.
 
 > When there is nothing perticularly cleaver to do, potential pitfall lies in insisting on being cleaver
 
-## 19 Adding Value
+## 19. Adding Value
 
 ![https://forum.valuepickr.com/uploads/default/original/2X/b/b0bb39ad5db095420b400918a97ced8f8af9669c.jpg](https://forum.valuepickr.com/uploads/default/original/2X/b/b0bb39ad5db095420b400918a97ced8f8af9669c.jpg)
 
 - Without skills agressive investor moves a lot in boh directions and defensive investor moves little in either direction
 - But **performance of investors who adds value is asymetrical, they capture more % of market gain than market losses**.
 - Everything is double edged sword in investing with exception of superior skills (good investment process)
-## 20 Reasonable Expectations
+## 20. Reasonable Expectations
 - If someone offers a sure-to-be-right view of future, as Is it too good to be true?, Why he is telling me this?
 - The bottom can only be identified in retrospect.
 
