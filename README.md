@@ -36,6 +36,7 @@ Read
 |Masterclass with Super-Investors|Vishal Mittal|[Notes](Masterclass%20with%20Super-Investors.md)|
 |Guns, Germs, and Steel: The Fates of Human Societies|Jared Diamond|[Notes](Guns_Germs_and_Steel.md)|
 |Forging Mettle: Nrupender Rao and the Pennar Story|Pavan C. Lall|[Notes](Forging_Mettle.md)|
+|The Art of Thinking Clearly|Rolf Dobelli|[Notes](The%20Art%20of%20Thinking%20Clearly.md)|
 
 To Read
 |Book|Author|One Line Pitch|
