@@ -2,6 +2,7 @@
 Read
 |Book|Author|Notes|
 |---|---|---|
+|Mindfulness in Plain English|Henepola Gunaratana|[Notes](Mindfulness%20in%20Plain%20English.md)|
 |Outliers: The Story of Success|Malcolm Gladwell|[Notes](Outliers_The_Story_of_Success.md)|
 |The 7 Habits of Highly Effective People|Stephen Covey|[Notes](7_habits_of_highly_effective_people.md)|
 |How to Win Friends and Influence People|Dale Carnegie|[Notes](How_to_Win_Friends_and_Influence_People.md)|
